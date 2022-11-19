@@ -57,7 +57,7 @@ nav ul {
 }
 
 section {
-  margin: 5px;
+  margin: 15px;
   padding: 30px 10px;
 }
 
@@ -67,12 +67,19 @@ figure {
 }
 
 #photos figure {
-  border-bottom: 1px solid;
-  padding: 15px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin: 5px;
+  padding: 10px;
+}
+#photos figure img {
+  margin: 10px;
+  max-width: 100px;
+  height: auto;
 }
 
-#photos img {
-  margin: 15px;
+figure figcaption {
+  border-bottom: 1px solid;
 }
 
 #geography article,
