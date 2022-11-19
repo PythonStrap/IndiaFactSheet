@@ -75,13 +75,13 @@ figure {
 }
 #photos img {
   margin: 10px;
-  max-width: 210px;
+  max-width: 300px;
   height: auto;
 }
 
 figure figcaption {
   border-bottom: 1px solid;
-  height: 30%;
+  height: 21%;
   line-height: 1.4;
 }
 
