@@ -81,6 +81,7 @@ figure {
 
 figure figcaption {
   border-bottom: 1px solid;
+  height: 30%;
 }
 
 #geography article,
