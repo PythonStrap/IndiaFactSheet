@@ -72,7 +72,7 @@ figure {
   margin: 5px;
   padding: 10px;
 }
-#photos figure img {
+#photos img {
   margin: 10px;
   max-width: 250px;
   height: auto;
